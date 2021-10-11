@@ -10,6 +10,7 @@ public class Persona {
    private String sexo;
    private int Id;
 
+   
     public int getId() {
         return Id;
     }
